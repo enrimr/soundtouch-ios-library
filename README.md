@@ -1,12 +1,15 @@
 # soundtouch-ios-library
 A soundtouch library compiled for iOS projects
 # Supported architectures
-This library is compiled for armv7 armv7s arm64 i386 x86_64
+This library is compiled for *armv7*, *armv7s*, *arm64*, *i386* and *x86_64* architectures
 
 You can check that with the following command:
 
-$> lipo -info SoundTouch/libSoundTouch.a 
-Architectures in the fat file: SoundTouch/libSoundTouch.a are: armv7 armv7s arm64 i386 x86_64 
+`$> lipo -info SoundTouch/libSoundTouch.a `
+
+And the output must be:
+
+`Architectures in the fat file: SoundTouch/libSoundTouch.a are: armv7 armv7s arm64 i386 x86_64 `
 
 # License
 SoundTouch audio processing library Copyright (c) Olli Parviainen
