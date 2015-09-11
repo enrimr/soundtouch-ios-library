@@ -1,5 +1,6 @@
 # soundtouch-ios-library
 A soundtouch library compiled for iOS projects
+
 # Supported architectures
 This library is compiled for *armv7*, *armv7s*, *arm64*, *i386* and *x86_64* architectures
 
@@ -12,6 +13,7 @@ And the output must be:
 `Architectures in the fat file: SoundTouch/libSoundTouch.a are: armv7 armv7s arm64 i386 x86_64 `
 
 # License
+
 SoundTouch audio processing library Copyright (c) Olli Parviainen
 
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License version 2.1 as published by the Free Software Foundation.
