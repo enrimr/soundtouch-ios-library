@@ -1,5 +1,5 @@
 # soundtouch-ios-library
-A soundtouch library compiled for iOS projects. Based on https://github.com/talko/soundtouch 
+A compiled soundtouch library compiled iOS projects. Based on https://github.com/talko/soundtouch 
 
 # Supported architectures
 This library is compiled for *armv7*, *armv7s*, *arm64*, *i386* and *x86_64* architectures
